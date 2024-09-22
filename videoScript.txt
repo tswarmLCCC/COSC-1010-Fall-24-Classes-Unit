@@ -1,0 +1,7 @@
+1.  Assignment type intro
+2.  Game programming presentation - loop slide, pygame overview slide, pip install slide
+3.  Replit and pip install demo
+4.  3 game demo
+	game idea - animation
+	game idea - loop
+	game idea - assets
